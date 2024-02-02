@@ -1,5 +1,6 @@
 # BCA WEB TECHNOLOGY
 
+# HTML-Course
 ## Introduction
 * Tag, Element, Attribute, Content
 ## Types of Tags
@@ -19,3 +20,9 @@
 * href, target, download, rel, title
 * relative path: current folder, mailto, tel, #
 * absolute path: full path
+
+## Types of List
+* Unordered List: ul>li*3 and press tab
+* Ordered List: ol>li*3 and press tab
+* Description List: dl>dt+dd*3 and press tab
+* Nested List: ul>li>ul>li*3 and press tab

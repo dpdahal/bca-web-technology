@@ -26,3 +26,18 @@
 * Ordered List: ol>li*3 and press tab
 * Description List: dl>dt+dd*3 and press tab
 * Nested List: ul>li>ul>li*3 and press tab
+
+# Image & Audio Video
+* img
+* picture 
+* video
+* audio
+
+# Iframe
+
+# Table
+* tr,th,td,thead,tbody,tfoot
+* colspan,rowspan,cellpadding, cellspacing
+
+# Form
+* input: text,number,radio

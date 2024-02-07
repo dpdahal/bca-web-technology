@@ -41,3 +41,24 @@
 
 # Form
 * input: text,number,radio
+
+# Css Course (Cascading style sheet)
+## Types of css
+* inline
+* internal
+* external
+
+## Types of css selector
+* Element Selector: Tag Name
+* Class Selector: .class
+* ID Selector: #id
+* Universal Selector: *
+* Group Selector: h1,h2,h3
+* Descendant Selector: div p
+* Child Selector: div>p
+* Adjacent Sibling Selector: div+p
+* General Sibling Selector: div~p
+* Attribute Selector: a[href]
+* Pseudo-Classes: a:hover
+* Pseudo-Elements: p::first-line
+* Combinators: div p

@@ -28,7 +28,7 @@
 * Nested List: ul>li>ul>li*3 and press tab
 
 # Image & Audio Video
-* img
+* img & imagemaps
 * picture 
 * video
 * audio
@@ -62,3 +62,39 @@
 * Pseudo-Classes: a:hover
 * Pseudo-Elements: p::first-line
 * Combinators: div p
+
+## ============= Questions==========
+1. What is HTML? Write history of HTML.
+2. What is HTML element & attribute, describe global attribute of HTML?
+3. Describe basic HTML structure.
+4. Difference between tag & element.
+5. Describe different types of element in HTML.
+6. Describe use of hyperlink tag.
+7. Wht is list tag? Describe different list types with example.
+8. Describe image tag with different arrtibutes.
+9. What is imagemap, describe the use of image map with its types.
+10. Describe table tag with it attributes.
+11. What is frameset, describe frameset with example.
+12. what are different form element with real time implementation examples.
+13. what are dfferent event associated with form.
+14. What is CSS? Describe different types of CSS with example.
+15. What is CSS selector? Describe different types of CSS selector with example.
+
+
+# Issue of Web Technology
+* Architectural Issues of Web
+* Tier Technology
+
+## Layer
+* HTML- The Contant Layer
+* Css - The styles Layer
+* JavaScript
+
+
+## =============Questions=========
+1. Describe different architectural issues of web layer.
+2. What is tier technology, explain its advantages.
+3. Define two tier architecture with it's block diagram.
+4. Define three tier architecture with diagram.
+5. Defference between two tier and three tier architecure.
+6. descrube n tier technoogy with it's pros and cons.

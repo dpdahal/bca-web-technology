@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>PHP for Dummies</title>
+        <author>
+            <name>John Doe</name>
+            <contact>
+                <email>john@gmail.com</email>
+                <phone>987687</phone>
+            </contact>
+        </author>
+        <year>2010</year>
+        <price>20</price>
+    </book>
+    <book>
+        <title>Java</title>
+        <author>
+            <name>hari</name>
+            <contact>
+                <email>hari@gmail.com</email>
+                <phone>987687</phone>
+            </contact>
+        </author>
+        <year>2020</year>
+        <price>2000</price>
+    </book>    
+</books>
